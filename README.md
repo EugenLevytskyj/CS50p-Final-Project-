@@ -3,8 +3,8 @@
 #### Description:
 this is simple app which help to manage tasks. App can save task from many users.
 If there is no the user, app will propose to make this user. Each task has id of task,
-task description, mark flag (main), date of creation, deadline if it`s need, mark flag (done)
-and warning mark if tasks wasn`t done in time.
+task description, mark flag (main), date of creation, deadline if its need, mark flag (done)
+and warning mark if tasks wasnt done in time.
 # App functionality
 * Add task
 * Remove task (single or multiply)

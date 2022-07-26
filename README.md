@@ -1,8 +1,8 @@
 # Family task list
 #### Video Demo:  https://www.youtube.com/watch?v=bYSQ66bi8l4&t=53s
 #### Description:
-this is simple app which help to manage tasks. App can save task from many users.
-If there is no the user, app will propose to make this user. Each task has id of task,
+this is simple app which help to manage tasks. App can saves task from many users.
+If there is no the user, app will proposes to make this user. Each task has id of task,
 task description, mark flag (main), date of creation, deadline if its need, mark flag (done)
 and warning mark if tasks wasnt done in time.
 # App functionality
